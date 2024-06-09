@@ -25,7 +25,7 @@ The Similarity Detection API is a Flask-based RESTful service that allows users 
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:KishoreSOL/Similarity-Check-API.git
+   git clone https://github.com/KishoreSOL/Similarity-Check-API.git
    cd similarity-detection-api
    ```
 
